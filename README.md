@@ -12,7 +12,7 @@ All this is done on sunday, so the day before the exercice session.
 **Organisation for the code of the groups**: 
 
 - git clone each group repository on local computer
-- each week, ´git clone´ the group repository to get the newest version
+- each week, `git clone` the group repository to get the newest version
 - execute the code and see if it works 
 
 **Feedback for the groups each week**: 
