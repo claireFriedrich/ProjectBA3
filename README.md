@@ -7,12 +7,12 @@ In this repository I find my code from last year for the Hopfield network.
 - look at last year's code to get an idea of how we did it
 - look at the code of the groups and make sure that everything is fine
 
-All this is done on sunday, so the day before the exercice session. 
+All this is done on saturady/sunday, so the day before the exercice session. 
 
 **Organisation for the code of the groups**: 
 
 - git clone each group repository on local computer
-- each week, `git clone` the group repository to get the newest version
+- each week, `git pull` the group repository to get the newest version
 - execute the code and see if it works 
 
 **Feedback for the groups each week**: 
